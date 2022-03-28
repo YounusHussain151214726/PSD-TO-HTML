@@ -1,38 +1,1235 @@
-.App {
-  text-align: center;
+.Group1 {
+  background-image: url("/src/images/headerback.jpg");
+  width: 100vw;
+  height: 755px;
+}
+#logo {
+  margin-top: 1pc;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#G1ul {
+  list-style: none;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  flex-direction: row;
+  margin-left: 65pc;
+  margin-top: -1pc;
+}
+
+#navl1,
+#navl2,
+#navl3,
+#navl4 {
+  margin-left: 4pc;
+  font-weight: 650;
+}
+
+#deliveryImg {
+  margin-top: -1pc;
+  margin-left: 55pc;
+}
+
+/* Header items Section */
+
+#HeaderSection {
+  display: flex;
+  flex-direction: row;
+}
+
+#headerPera {
+  margin-top: 5pc;
+  margin-left: 5pc;
+}
+
+#headerImg {
+  margin-left: 12pc;
+}
+
+/* second group */
+
+#Gi1 {
+  margin-top: 5pc;
+  margin-left: 13pc;
+  width: 80pc;
+}
+
+#gi1,
+#gi2,
+#gi3 {
+  border-radius: 1pc;
+}
+
+#gi2 {
+  position: absolute;
+  top: 52.3pc;
+  left: 53pc;
+}
+
+#gi3 {
+  position: absolute;
+  top: 65.3pc;
+  left: 53pc;
+}
+
+#btnG2 {
+  margin-top: 5pc;
+  height: 3pc;
+  font-size: large;
+  font-weight: 600;
+  margin-left: 43pc;
+  background-color: goldenrod;
+  width: 18pc;
+}
+
+#Gi2 {
+  margin-left: 25pc;
+}
+
+#gih1 {
+  font-size: 4pc;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 7pc;
+}
+
+#gip1 {
+  font-size: 2pc;
+}
+
+#Burgers {
+  display: flex;
+  flex-direction: row;
+}
+
+#Burger1,
+#Burger2,
+#Burger3 {
+  margin-left: 6pc;
+}
+
+#B1h,
+#B1h1,
+#B1h2 {
+  color: Red;
+  font-size: 2pc;
+  font-weight: bold;
+  margin-left: 4pc;
+}
+
+#B1p,
+#B1p1,
+#B1p2 {
+  font-size: 1.3pc;
+  margin-left: 5pc;
+  color: rgb(87, 82, 82);
+}
+#B1p1 {
+  margin-left: 9pc;
+}
+
+#B1b,
+#B1b1,
+#B1b2 {
+  background-color: red;
+  color: white;
+  width: 12pc;
+  height: 3pc;
+  margin-left: 5pc;
+  font-weight: bold;
+  font-size: 1pc;
+}
+
+#B1b1 {
+  margin-left: 9pc;
+}
+#Perasp {
+  font-size: 1.5pc;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  margin-left: 5pc;
+}
+#Perah {
+  font-weight: bold;
+  font-size: 2pc;
+  margin-left: 5pc;
+}
+#Perap {
+  width: 40pc;
+  margin-left: 5pc;
+}
+
+#Perad {
+  margin-top: 5pc;
+  box-shadow: 3px 8px 16px -6px black;
+  width: 90pc;
+  height: 25pc;
+  margin-left: 8pc;
+}
+
+#Perai {
+  position: absolute;
+  left: 55pc;
+  top: 144pc;
+  height: 15pc;
+  width: 30pc;
+  border-radius: 0.5pc;
+}
+
+#Group3 {
+  margin-top: 3pc;
+}
+
+#G3sp1 {
+  font-size: 1.8pc;
+  margin-left: 50pc;
+}
+
+#G3h1 {
+  margin-left: 42pc;
+  font-size: 3pc;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#G3inps {
+  width: 55pc;
+  margin-left: 30pc;
+  height: 30pc;
+  margin-top: 6pc;
+}
+#G3i1,
+#G3i2,
+#G3i3,
+#G3i4,
+#G3i5,
+#G3b1 {
+  height: 5pc;
+  width: 25pc;
+  margin-left: 2pc;
+  margin-top: 1pc;
+  font-size: 1.5pc;
+  border-radius: 0.3pc;
+}
+
+#G3b1 {
+  background-color: red;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+#g3i1 {
+  position: absolute;
+  left: 5pc;
+}
+#g3i2 {
+  position: absolute;
+  left: 85pc;
+  top: 188pc;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.footer {
+  background-image: url("/src/images/footerBack.jpg");
+  height: 30pc;
+  margin-top: 15pc;
+}
+
+#ftrlo {
+  margin-left: 3pc;
+  margin-top: 3pc;
+}
+
+#ftrp {
+  color: white;
+  width: 35pc;
+  margin-left: 3pc;
+}
+
+#location {
+  color: white;
+  position: absolute;
+  left: 70pc;
+  top: 234pc;
+  font-size: 1.5pc;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#mail {
+  color: white;
+  position: absolute;
+  left: 70pc;
+  top: 230pc;
+  font-size: 1.5pc;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#G4sp {
+  color: white;
+
+  position: absolute;
+  top: 245pc;
+  left: 3pc;
+}
+
+#G4li1,
+#G4li2,
+#G4li3,
+#G4li4 {
+  color: white;
+  margin-left: 2pc;
+  font-size: 1.5pc;
+}
+#G4ld {
+  margin-left: 70pc;
+  margin-top: 6pc;
+}
+
+#G4ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+/* responsive */
+
+@media (min-width: 320px) and (max-width: 480px) {
+  #logo {
+    margin-left: 3pc;
   }
-  to {
-    transform: rotate(360deg);
+
+  #deliveryImg {
+    margin-left: 1pc;
+  }
+
+  #G1ul {
+    margin-left: 1pc;
+    margin-top: 2pc;
+  }
+  #navl1,
+  #navl2,
+  #navl3,
+  #navl4 {
+    margin-left: 1pc;
+  }
+
+  #headerimg {
+    margin-left: -38pc;
+    margin-top: 16pc;
+    height: 15pc;
+    width: 24pc;
+  }
+
+  #headerpera {
+    height: 18pc;
+    width: 25pc;
+    margin-left: -4pc;
+    margin-top: -5pc;
+  }
+
+  #Gi1 {
+    margin-left: 2pc;
+    width: 10pc;
+  }
+  #gi1 {
+    width: 22pc;
+  }
+  #gi2 {
+    top: 68pc;
+    left: 2pc;
+    width: 22pc;
+  }
+  #gi3 {
+    top: 76pc;
+    left: 2pc;
+    width: 22pc;
+  }
+  #btnG2 {
+    margin-top: 17pc;
+    margin-left: 4pc;
+  }
+  #gih1 {
+    margin-left: -20pc;
+    font-size: 2pc;
+    margin-top: 3pc;
+  }
+  #gip1 {
+    margin-left: -20.8pc;
+  }
+
+  #Burgers {
+    flex-direction: column;
+  }
+  #Burger1 {
+    margin-left: 3pc;
+  }
+  #burger1 {
+    width: 20pc;
+  }
+  #B1h {
+    font-size: 1.5pc;
+    position: relative;
+    left: 1.5pc;
+  }
+
+  #B1p {
+  }
+  #b1b {
+  }
+
+  #Burger2 {
+    margin-left: 4pc;
+    margin-top: 2pc;
+  }
+  #burger2 {
+    width: 20pc;
+  }
+  #B1h1 {
+    font-size: 1.5pc;
+    position: relative;
+    left: -2pc;
+  }
+  #B1p1 {
+    position: relative;
+    left: -4pc;
+  }
+  #B1b1 {
+    position: relative;
+    left: -4pc;
+  }
+
+  #Burger3 {
+    margin-left: 4pc;
+    margin-top: 2pc;
+  }
+  #burger3 {
+    width: 20pc;
+  }
+  #B1h2 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 1pc;
+  }
+  #B1p2 {
+    position: relative;
+    left: -1pc;
+  }
+  #B1b2 {
+    position: relative;
+    left: -1pc;
+  }
+  #Perad {
+    margin-left: 1pc;
+    width: 25pc;
+    height: 50pc;
+  }
+
+  #Perap {
+    margin-left: 2pc;
+    font-size: 1pc;
+    width: 20pc;
+  }
+
+  #Perasp {
+    position: relative;
+    top: 2pc;
+    left: -3pc;
+  }
+  #Perah {
+    position: relative;
+    top: 1pc;
+    left: -3pc;
+  }
+  #Perai {
+    left: 3pc;
+    width: 22pc;
+    top: 229pc;
+    height: 12pc;
+  }
+
+  #g3i1 {
+    left: -0.1pc;
+    width: 6pc;
+  }
+  #G3sp1 {
+    margin-left: 3pc;
+    font-size: 1.5pc;
+    margin-top: 3pc;
+  }
+
+  #G3h1 {
+    margin-left: 3pc;
+    font-size: 1.8pc;
+  }
+
+  #G3inps {
+    margin-left: 1pc;
+    width: 25pc;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2pc;
+  }
+  #G3i1,
+  #G3i2,
+  #G3i3,
+  #G3i4,
+  #G3i5,
+  #G3b1 {
+    width: 17pc;
+    margin-left: 6pc;
+  }
+  #g3i2 {
+    top: 285pc;
+    left: 18.7pc;
+    height: 13pc;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #ftrlo {
+    width: 10pc;
+  }
+  #ftrp {
+    width: 22pc;
+    margin-left: 1pc;
+  }
+
+  #G4ld {
+    margin-left: 1pc;
+  }
+  #mail {
+    top: 317pc;
+    left: 1pc;
+    color: white;
+    font-size: 1pc;
+  }
+  #location {
+    top: 315pc;
+    left: 1pc;
+    color: white;
+    font-size: 1pc;
+  }
+
+  #G4sp {
+    top: 325pc;
+    left: 1pc;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 621px) {
+  #logo {
+    margin-left: 8pc;
+  }
+
+  #deliveryImg {
+    margin-left: 7pc;
+  }
+
+  #G1ul {
+    margin-left: 5pc;
+    margin-top: 2pc;
+  }
+  #navl1,
+  #navl2,
+  #navl3,
+  #navl4 {
+    margin-left: 1pc;
+  }
+
+  #headerimg {
+    margin-left: -40pc;
+    margin-top: 16pc;
+    height: 15pc;
+    width: 24pc;
+  }
+
+  #headerpera {
+    height: 18pc;
+    width: 25pc;
+    margin-left: 1pc;
+    margin-top: -5pc;
+  }
+
+  #Gi1 {
+    margin-left: 7pc;
+    width: 10pc;
+  }
+  #gi1 {
+    width: 22pc;
+  }
+  #gi2 {
+    top: 68pc;
+    left: 7pc;
+    width: 22pc;
+  }
+  #gi3 {
+    top: 76pc;
+    left: 7pc;
+    width: 22pc;
+  }
+  #btnG2 {
+    margin-top: 17pc;
+    margin-left: 9pc;
+  }
+
+  #gih1 {
+    margin-left: -20pc;
+    font-size: 2pc;
+    margin-top: 3pc;
+  }
+  #gip1 {
+    margin-left: -20.8pc;
+  }
+
+  #Burgers {
+    flex-direction: column;
+  }
+  #Burger1 {
+    margin-left: 8pc;
+  }
+  #burger1 {
+    width: 24pc;
+  }
+  #B1h {
+    font-size: 1.5pc;
+    position: relative;
+    left: 2pc;
+  }
+
+  #B1p {
+  }
+  #b1b {
+  }
+
+  #Burger2 {
+    margin-left: 8pc;
+    margin-top: 2pc;
+  }
+  #burger2 {
+    width: 24pc;
+  }
+  #B1h1 {
+    font-size: 1.5pc;
+    position: relative;
+    left: -1pc;
+  }
+  #B1p1 {
+    position: relative;
+    left: -4pc;
+  }
+  #B1b1 {
+    position: relative;
+    left: -4pc;
+  }
+
+  #Burger3 {
+    margin-left: 8pc;
+    margin-top: 2pc;
+  }
+  #burger3 {
+    width: 24pc;
+  }
+  #B1h2 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 1pc;
+  }
+  #B1p2 {
+    position: relative;
+    left: -1pc;
+  }
+  #B1b2 {
+    position: relative;
+    left: -1pc;
+  }
+  #Perad {
+    margin-left: 7pc;
+    width: 25pc;
+    height: 65pc;
+  }
+
+  #Perap {
+    margin-left: 2pc;
+    font-size: 1.2pc;
+    width: 20pc;
+  }
+
+  #Perasp {
+    position: relative;
+    top: 2pc;
+    left: -3pc;
+  }
+  #Perah {
+    position: relative;
+    top: 1pc;
+    left: -3pc;
+  }
+  #Perai {
+    left: 8.8pc;
+    width: 22pc;
+    top: 251.8pc;
+    height: 12pc;
+  }
+
+  #g3i1 {
+    left: -0.1pc;
+    width: 6pc;
+  }
+  #G3sp1 {
+    margin-left: 7pc;
+    font-size: 1.5pc;
+    margin-top: 3pc;
+  }
+
+  #G3h1 {
+    margin-left: 7pc;
+    font-size: 1.8pc;
+  }
+
+  #G3inps {
+    margin-left: 1pc;
+    width: 25pc;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2pc;
+  }
+  #G3i1,
+  #G3i2,
+  #G3i3,
+  #G3i4,
+  #G3i5,
+  #G3b1 {
+    width: 17pc;
+    margin-left: 6pc;
+  }
+  #g3i2 {
+    top: 308pc;
+    left: 24pc;
+    height: 13pc;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+    width: 35pc;
+  }
+
+  #ftrlo {
+    width: 10pc;
+  }
+  #ftrp {
+    width: 22pc;
+    margin-left: 1pc;
+  }
+
+  #G4ld {
+    margin-left: 1pc;
+  }
+  #mail {
+    top: 341pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+  #location {
+    top: 342pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+
+  #G4sp {
+    top: 350pc;
+    left: 1pc;
+  }
+}
+
+@media (min-width: 622px) and (max-width: 834px) {
+  #logo {
+    margin-left: 11pc;
+  }
+
+  #deliveryImg {
+    margin-left: 10pc;
+    margin-top: -2pc;
+  }
+
+  #G1ul {
+    margin-left: 7pc;
+    margin-top: 2pc;
+  }
+  #navl1,
+  #navl2,
+  #navl3,
+  #navl4 {
+    margin-left: 1pc;
+  }
+
+  #headerimg {
+    margin-left: -37pc;
+    margin-top: 16pc;
+    height: 15pc;
+    width: 24pc;
+  }
+
+  #headerpera {
+    height: 18pc;
+    width: 25pc;
+    margin-left: 5pc;
+    margin-top: -5pc;
+  }
+
+  #Gi1 {
+    margin-left: 10pc;
+    width: 10pc;
+  }
+  #gi1 {
+    width: 25pc;
+  }
+  #gi2 {
+    top: 70pc;
+    left: 10pc;
+    width: 25pc;
+  }
+  #gi3 {
+    top: 78.6pc;
+    left: 10pc;
+    width: 25pc;
+  }
+  #btnG2 {
+    margin-top: 18pc;
+    margin-left: 12pc;
+  }
+  #gih1 {
+    margin-left: -20pc;
+    font-size: 2pc;
+    margin-top: 3pc;
+  }
+  #gip1 {
+    margin-left: -20.8pc;
+  }
+
+  #Burgers {
+    flex-direction: column;
+  }
+  #Burger1 {
+    margin-left: 10pc;
+    border: 2px soild green;
+    width: 30pc;
+  }
+  #burger1 {
+    width: 24pc;
+    margin-left: 3pc;
+  }
+  #B1h {
+    font-size: 1.5pc;
+    position: relative;
+    left: 4pc;
+    display: inline;
+    border: 2px soild green;
+  }
+
+  #B1p {
+    margin-left: 8pc;
+  }
+  #B1b {
+    margin-left: 8pc;
+  }
+
+  #Burger2 {
+    margin-left: 10pc;
+    margin-top: 2pc;
+    width: 30pc;
+  }
+  #burger2 {
+    width: 25pc;
+    margin-left: 3pc;
+  }
+  #B1h1 {
+    font-size: 1.3pc;
+    position: relative;
+    left: 4pc;
+    width: 10pc;
+  }
+  #B1p1 {
+    position: relative;
+    left: 1pc;
+    top: -1pc;
+  }
+  #B1b1 {
+    position: relative;
+    left: 0.5pc;
+    top: -2pc;
+  }
+
+  #Burger3 {
+    margin-left: 10pc;
+    margin-top: 2pc;
+    width: 30pc;
+  }
+  #burger3 {
+    width: 24pc;
+    margin-left: 3pc;
+  }
+  #B1h2 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 4pc;
+    top: 1pc;
+  }
+  #B1p2 {
+    position: relative;
+    left: 3pc;
+    top: 0pc;
+  }
+  #B1b2 {
+    position: relative;
+    left: 3.2pc;
+    top: 0pc;
+  }
+  #Perad {
+    margin-left: 8pc;
+    width: 34pc;
+    height: 55pc;
+  }
+
+  #Perap {
+    margin-left: 2pc;
+    font-size: 1.2pc;
+    width: 30pc;
+  }
+
+  #Perasp {
+    position: relative;
+    top: 2pc;
+    left: -3pc;
+  }
+  #Perah {
+    position: relative;
+    top: 1pc;
+    left: -3pc;
+  }
+  #Perai {
+    left: 11pc;
+    width: 28pc;
+    top: 242pc;
+    height: 15pc;
+  }
+
+  #g3i1 {
+    left: -0.1pc;
+    width: 8pc;
+  }
+  #G3sp1 {
+    margin-left: 10pc;
+    font-size: 1.8pc;
+    margin-top: 3pc;
+  }
+
+  #G3h1 {
+    margin-left: 10pc;
+    font-size: 2pc;
+  }
+
+  #G3inps {
+    margin-left: 5pc;
+    width: 25pc;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2pc;
+  }
+  #G3i1,
+  #G3i2,
+  #G3i3,
+  #G3i4,
+  #G3i5,
+  #G3b1 {
+    width: 25pc;
+    margin-left: 6pc;
+  }
+  #g3i2 {
+    top: 301pc;
+    left: 35pc;
+    height: 13pc;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+    width: 55pc;
+  }
+
+  #ftrlo {
+    width: 10pc;
+  }
+  #ftrp {
+    width: 22pc;
+    margin-left: 1pc;
+  }
+
+  #G4ld {
+    margin-left: 25pc;
+    margin-top: 1pc;
+  }
+  #mail {
+    top: 335pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+  #location {
+    top: 337pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+
+  #G4sp {
+    top: 340pc;
+    left: 1pc;
+  }
+}
+
+@media (min-width: 835px) and (max-width: 1025px) {
+  #logo {
+    margin-left: 1pc;
+  }
+
+  #deliveryImg {
+    position: absolute;
+    left: -23pc;
+    top: 2.3pc;
+  }
+
+  #G1ul {
+    margin-left: 32pc;
+    margin-top: 1pc;
+  }
+  #navl1,
+  #navl2,
+  #navl3,
+  #navl4 {
+    margin-left: 1pc;
+  }
+
+  #headerimg {
+    margin-left: -42pc;
+    margin-top: 16pc;
+    height: 18pc;
+    width: 32pc;
+  }
+
+  #headerpera {
+    height: 18pc;
+    width: 30pc;
+    margin-left: 8pc;
+    margin-top: -5pc;
+  }
+
+  #Gi1 {
+    margin-left: 3pc;
+    width: 10pc;
+  }
+  #gi1 {
+    width: 25pc;
+  }
+  #gi2 {
+    top: 52.3pc;
+    left: 30pc;
+    width: 25pc;
+  }
+  #gi3 {
+    top: 61.1pc;
+    left: 30pc;
+    width: 25pc;
+  }
+  #btnG2 {
+    margin-top: 2pc;
+    margin-left: 20pc;
+  }
+
+  #gih1 {
+    margin-left: -20pc;
+    font-size: 2pc;
+    margin-top: 3pc;
+  }
+  #gip1 {
+    margin-left: -20.8pc;
+  }
+
+  #Burgers {
+    flex-direction: row;
+    margin-left: -10pc;
+  }
+  #Burger1 {
+    margin-left: 10pc;
+    border: 2px soild green;
+    width: 30pc;
+  }
+  #burger1 {
+    width: 20pc;
+    margin-left: 3pc;
+  }
+  #B1h {
+    font-size: 1.5pc;
+    position: relative;
+    left: 4pc;
+    display: inline;
+    border: 2px soild green;
+  }
+
+  #B1p {
+    margin-left: 8pc;
+  }
+  #B1b {
+    margin-left: 8pc;
+  }
+
+  #Burger2 {
+    margin-left: 1pc;
+    margin-top: 2pc;
+    width: 30pc;
+    height: 30pc;
+  }
+  #burger2 {
+    width: 20pc;
+    margin-left: 3pc;
+  }
+  #B1h1 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 1pc;
+    width: 0pc;
+  }
+  #B1p1 {
+    position: relative;
+    left: -2pc;
+    top: -1pc;
+  }
+  #B1b1 {
+    position: relative;
+    left: -7c;
+    top: -2pc;
+  }
+
+  #Burger3 {
+    margin-left: -60pc;
+    margin-top: 35pc;
+    width: 30pc;
+  }
+  #burger3 {
+    width: 20pc;
+    margin-left: 3pc;
+  }
+  #B1h2 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 4pc;
+    top: 1pc;
+  }
+  #B1p2 {
+    position: relative;
+    left: 3pc;
+    top: 0pc;
+  }
+  #B1b2 {
+    position: relative;
+    left: 3.2pc;
+    top: 0pc;
+  }
+  #Perad {
+    margin-left: 11pc;
+    width: 45pc;
+    height: 50pc;
+  }
+
+  #Perap {
+    margin-left: 2pc;
+    font-size: 1.2pc;
+    width: 36pc;
+  }
+
+  #Perasp {
+    position: relative;
+    top: 2pc;
+    left: -3pc;
+  }
+  #Perah {
+    position: relative;
+    top: 1pc;
+    left: -3pc;
+  }
+  #Perai {
+    left: 15pc;
+    width: 35pc;
+    top: 187pc;
+    height: 17pc;
+  }
+
+  #g3i1 {
+    left: -0.1pc;
+    width: 12pc;
+  }
+  #G3sp1 {
+    margin-left: 15pc;
+    font-size: 1.8pc;
+    margin-top: 3pc;
+  }
+
+  #G3h1 {
+    margin-left: 15pc;
+    font-size: 2pc;
+  }
+
+  #G3inps {
+    margin-left: 10pc;
+    width: 25pc;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2pc;
+  }
+  #G3i1,
+  #G3i2,
+  #G3i3,
+  #G3i4,
+  #G3i5,
+  #G3b1 {
+    width: 30pc;
+    margin-left: 6pc;
+  }
+  #g3i2 {
+    top: 245pc;
+    left: 50pc;
+    height: 13pc;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+    width: 65pc;
+  }
+
+  #ftrlo {
+    width: 10pc;
+  }
+  #ftrp {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+
+  #G4ld {
+    margin-left: 35pc;
+    margin-top: 1pc;
+  }
+  #mail {
+    top: 279pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+  #location {
+    top: 280pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+
+  #G4sp {
+    top: 285pc;
+    left: 1pc;
   }
 }
