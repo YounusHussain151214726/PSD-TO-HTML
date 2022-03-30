@@ -40,7 +40,7 @@ const Home = () => {
 
         <section id="HeaderSection">
           <div id="headerPera">
-            <img src="./images/HeaderPera.jpg" id="headerpera" />
+            <img src="./images/HeaderPera.jpg" id="headerpera" alt="hahah"/>
           </div>
 
           <div id="headerImg">

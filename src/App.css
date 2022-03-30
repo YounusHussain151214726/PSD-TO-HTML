@@ -288,18 +288,19 @@
 
 /* responsive */
 
-@media (min-width: 320px) and (max-width: 480px) {
+@media (min-width: 360px) and (max-width: 400px) {
   #logo {
-    margin-left: 3pc;
+    margin-left: 2.2pc;
   }
 
   #deliveryImg {
-    margin-left: 1pc;
+    margin-left: 1.9pc;
+    width: 20pc;
   }
 
   #G1ul {
-    margin-left: 1pc;
-    margin-top: 2pc;
+    margin-left: -3pc;
+    margin-top: 1pc;
   }
   #navl1,
   #navl2,
@@ -309,54 +310,54 @@
   }
 
   #headerimg {
-    margin-left: -38pc;
-    margin-top: 16pc;
+    margin-left: -30pc;
+    margin-top: 18pc;
     height: 15pc;
-    width: 24pc;
+    width: 18pc;
   }
 
   #headerpera {
-    height: 18pc;
-    width: 25pc;
-    margin-left: -4pc;
+    height: 20pc;
+    width: 19pc;
+    margin-left: -3pc;
     margin-top: -5pc;
   }
 
   #Gi1 {
-    margin-left: 2pc;
+    margin-left: 3.5pc;
     width: 10pc;
   }
   #gi1 {
-    width: 22pc;
+    width: 15pc;
   }
   #gi2 {
-    top: 68pc;
-    left: 2pc;
-    width: 22pc;
+    top: 63pc;
+    left: 3.5pc;
+    width: 15pc;
   }
   #gi3 {
-    top: 76pc;
-    left: 2pc;
-    width: 22pc;
+    top: 68.5pc;
+    left: 3.5pc;
+    width: 15pc;
   }
   #btnG2 {
-    margin-top: 17pc;
-    margin-left: 4pc;
+    margin-top: 14pc;
+    margin-left: 2.5pc;
   }
   #gih1 {
-    margin-left: -20pc;
-    font-size: 2pc;
+    margin-left: -23pc;
+    font-size: 1.5pc;
     margin-top: 3pc;
   }
   #gip1 {
-    margin-left: -20.8pc;
+    margin-left: -23.8pc;
   }
 
   #Burgers {
     flex-direction: column;
   }
   #Burger1 {
-    margin-left: 3pc;
+    margin-left: 2pc;
   }
   #burger1 {
     width: 20pc;
@@ -373,7 +374,7 @@
   }
 
   #Burger2 {
-    margin-left: 4pc;
+    margin-left: 2pc;
     margin-top: 2pc;
   }
   #burger2 {
@@ -394,7 +395,7 @@
   }
 
   #Burger3 {
-    margin-left: 4pc;
+    margin-left: 2pc;
     margin-top: 2pc;
   }
   #burger3 {
@@ -403,7 +404,7 @@
   #B1h2 {
     font-size: 1.5pc;
     position: relative;
-    left: 1pc;
+    left: 0.5pc;
   }
   #B1p2 {
     position: relative;
@@ -414,9 +415,9 @@
     left: -1pc;
   }
   #Perad {
-    margin-left: 1pc;
-    width: 25pc;
-    height: 50pc;
+    margin-left:0.1pc;
+    width: 99%;
+    height: 45pc;
   }
 
   #Perap {
@@ -427,23 +428,24 @@
 
   #Perasp {
     position: relative;
-    top: 2pc;
+    top: 1pc;
     left: -3pc;
   }
   #Perah {
     position: relative;
     top: 1pc;
     left: -3pc;
+    font-size: 1.5pc;
   }
   #Perai {
-    left: 3pc;
-    width: 22pc;
-    top: 229pc;
+    left: 1.2pc;
+    width: 20pc;
+    top: 218pc;
     height: 12pc;
   }
 
   #g3i1 {
-    left: -0.1pc;
+    left: -0.9pc;
     width: 6pc;
   }
   #G3sp1 {
@@ -470,12 +472,12 @@
   #G3i4,
   #G3i5,
   #G3b1 {
-    width: 17pc;
+    width:13pc;
     margin-left: 6pc;
   }
   #g3i2 {
-    top: 285pc;
-    left: 18.7pc;
+    top: 272pc;
+    left: 16pc;
     height: 13pc;
   }
   .footer {
@@ -492,26 +494,268 @@
   }
 
   #G4ld {
-    margin-left: 1pc;
+    margin-left: -3pc;
   }
   #mail {
-    top: 317pc;
+    top: 302pc;
     left: 1pc;
     color: white;
     font-size: 1pc;
   }
   #location {
-    top: 315pc;
+    top: 305pc;
     left: 1pc;
     color: white;
     font-size: 1pc;
   }
 
   #G4sp {
-    top: 325pc;
-    left: 1pc;
+    top: 312pc;
+    left: 0.5pc;
   }
 }
+
+
+
+@media (min-width: 400px) and (max-width: 428px) {
+  #logo {
+    margin-left: 2.2pc;
+  }
+
+  #deliveryImg {
+    margin-left: 1.9pc;
+    width: 20pc;
+  }
+
+  #G1ul {
+    margin-left: -1pc;
+    margin-top: 1pc;
+  }
+  #navl1,
+  #navl2,
+  #navl3,
+  #navl4 {
+    margin-left: 1pc;
+  }
+
+  #headerimg {
+    margin-left: -30pc;
+    margin-top: 18pc;
+    height: 15pc;
+    width: 18pc;
+  }
+
+  #headerpera {
+    height: 20pc;
+    width: 19pc;
+    margin-left: -3pc;
+    margin-top: -5pc;
+  }
+
+  #Gi1 {
+    margin-left: 3.5pc;
+    width: 10pc;
+  }
+  #gi1 {
+    width: 18pc;
+  }
+  #gi2 {
+    top: 65pc;
+    left: 3.5pc;
+    width: 18pc;
+  }
+  #gi3 {
+    top: 71.2pc;
+    left: 3.5pc;
+    width: 18pc;
+  }
+  #btnG2 {
+    margin-top: 14pc;
+    margin-left: 3.5pc;
+  }
+  #gih1 {
+    margin-left: -23pc;
+    font-size: 1.5pc;
+    margin-top: 3pc;
+  }
+  #gip1 {
+    margin-left: -23.8pc;
+    font-size: 1;
+  }
+
+  #Burgers {
+    flex-direction: column;
+  }
+  #Burger1 {
+    margin-left: 2pc;
+  }
+  #burger1 {
+    width: 20pc;
+  }
+  #B1h {
+    font-size: 1.5pc;
+    position: relative;
+    left: 1.5pc;
+  }
+
+  #B1p {
+  }
+  #b1b {
+  }
+
+  #Burger2 {
+    margin-left: 2pc;
+    margin-top: 2pc;
+  }
+  #burger2 {
+    width: 20pc;
+  }
+  #B1h1 {
+    font-size: 1.5pc;
+    position: relative;
+    left: -2pc;
+  }
+  #B1p1 {
+    position: relative;
+    left: -4pc;
+  }
+  #B1b1 {
+    position: relative;
+    left: -4pc;
+  }
+
+  #Burger3 {
+    margin-left: 2pc;
+    margin-top: 2pc;
+  }
+  #burger3 {
+    width: 20pc;
+  }
+  #B1h2 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 0.5pc;
+  }
+  #B1p2 {
+    position: relative;
+    left: -1pc;
+  }
+  #B1b2 {
+    position: relative;
+    left: -1pc;
+  }
+  #Perad {
+    margin-left:0.1pc;
+    width: 99%;
+    height: 45pc;
+  }
+
+  #Perap {
+    margin-left: 2pc;
+    font-size: 1pc;
+    width: 20pc;
+  }
+
+  #Perasp {
+    position: relative;
+    top: 1pc;
+    left: -3pc;
+  }
+  #Perah {
+    position: relative;
+    top: 1pc;
+    left: -3pc;
+    font-size: 1.5pc;
+  }
+  #Perai {
+    left: 1.9pc;
+    width: 20pc;
+    top: 220pc;
+    height: 12pc;
+  }
+
+  #g3i1 {
+    left: -0.9pc;
+    width: 6pc;
+  }
+  #G3sp1 {
+    margin-left: 3pc;
+    font-size: 1.5pc;
+    margin-top: 3pc;
+  }
+
+  #G3h1 {
+    margin-left: 3pc;
+    font-size: 1.8pc;
+  }
+
+  #G3inps {
+    margin-left: 1pc;
+    width: 25pc;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2pc;
+  }
+  #G3i1,
+  #G3i2,
+  #G3i3,
+  #G3i4,
+  #G3i5,
+  #G3b1 {
+    width:13pc;
+    margin-left: 6pc;
+  }
+  #g3i2 {
+    top: 275pc;
+    left: 20pc;
+    height: 10pc;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #ftrlo {
+    width: 10pc;
+  }
+  #ftrp {
+    width: 22pc;
+    margin-left: 1pc;
+  }
+
+  #G4ld {
+    margin-left: -3pc;
+  }
+  #mail {
+    top: 307pc;
+    left: 1pc;
+    color: white;
+    font-size: 1pc;
+  }
+  #location {
+    top: 305pc;
+    left: 1pc;
+    color: white;
+    font-size: 1pc;
+  }
+
+  #G4sp {
+    top: 315pc;
+    left: 0.5pc;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media (min-width: 481px) and (max-width: 621px) {
   #logo {
@@ -1237,7 +1481,7 @@
 
 
 
-@media (min-width: 1026px) and (max-width: 1280px) {
+@media (min-width: 1026px) and (max-width: 1100px) {
   #logo {
     margin-left: 1pc;
   }
@@ -1249,8 +1493,8 @@
   }
 
   #G1ul {
-    margin-left: 36pc;
-    margin-top: 1pc;
+    margin-left: 40pc;
+    margin-top: -1.5pc;
   }
   #navl1,
   #navl2,
@@ -1270,11 +1514,11 @@
     height: 18pc;
     width: 30pc;
     margin-left: 1pc;
-    margin-top: 5pc;
+    margin-top: 2pc;
   }
 
   #Gi1 {
-    margin-left: 3pc;
+    margin-left: 9pc;
     width: 10pc;
   }
   #gi1 {
@@ -1282,17 +1526,17 @@
   }
   #gi2 {
     top: 52.3pc;
-    left: 30pc;
+    left: 35pc;
     width: 25pc;
   }
   #gi3 {
     top: 61.1pc;
-    left: 30pc;
+    left: 35pc;
     width: 25pc;
   }
   #btnG2 {
     margin-top: 2pc;
-    margin-left: 20pc;
+    margin-left: 25pc;
   }
 
   #gih1 {
@@ -1306,94 +1550,96 @@
 
   #Burgers {
     flex-direction: row;
-    margin-left: -10pc;
+    margin-left: -7.5pc;
   }
   #Burger1 {
     margin-left: 10pc;
-    border: 2px soild green;
-    width: 30pc;
+    width: 20pc;
+ height: 25pc;
   }
   #burger1 {
-    width: 20pc;
-    margin-left: 3pc;
+    width: 18pc;
+    margin-left: 1pc;
   }
   #B1h {
     font-size: 1.5pc;
-    position: relative;
-    left: 4pc;
-    display: inline;
-    border: 2px soild green;
+    position: absolute;
+    left: 3pc;
+    top: 102pc;
   }
 
   #B1p {
-    margin-left: 8pc;
+    margin-left: 4.2pc;
   }
   #B1b {
-    margin-left: 8pc;
+    margin-left: 4pc;
   }
 
   #Burger2 {
     margin-left: 1pc;
     margin-top: 2pc;
-    width: 30pc;
-    height: 30pc;
+    width: 20pc;
+    height: 25pc;
   }
   #burger2 {
-    width: 20pc;
-    margin-left: 3pc;
+    width: 18pc;
+    margin-left: 1pc;
   }
   #B1h1 {
     font-size: 1.5pc;
-    position: relative;
-    left: 1pc;
-    width: 0pc;
+    position: absolute;
+    left: 22pc;
+    top: 102.5pc;
   }
   #B1p1 {
     position: relative;
-    left: -2pc;
+    left: -5pc;
     top: -1pc;
+    width: 15pc;
   }
   #B1b1 {
     position: relative;
-    left: -7c;
-    top: -2pc;
+    left: -5pc;
+    top: -1.4pc;
   }
 
   #Burger3 {
-    margin-left: -60pc;
-    margin-top: 35pc;
-    width: 30pc;
+    margin-left: 2pc;
+    margin-top:0pc;
+    width: 20pc;
+    height: 25;
   }
   #burger3 {
-    width: 20pc;
-    margin-left: 3pc;
+    width: 17pc;
+    margin-left:1pc;
   }
   #B1h2 {
     font-size: 1.5pc;
     position: relative;
-    left: 4pc;
+    left: 0.5pc;
     top: 1pc;
   }
   #B1p2 {
     position: relative;
-    left: 3pc;
+    left: -1pc;
     top: 0pc;
   }
   #B1b2 {
     position: relative;
-    left: 3.2pc;
+    left: -0.2pc;
     top: 0pc;
   }
   #Perad {
-    margin-left: 11pc;
-    width: 45pc;
-    height: 50pc;
+    margin-left: 1pc;
+    width: 97%;
+    height: 35pc;
+  
   }
 
   #Perap {
     margin-left: 2pc;
     font-size: 1.2pc;
-    width: 36pc;
+    width: 30pc;
   }
 
   #Perasp {
@@ -1403,13 +1649,13 @@
   }
   #Perah {
     position: relative;
-    top: 1pc;
+    top: 1.5pc;
     left: -3pc;
   }
   #Perai {
-    left: 15pc;
-    width: 35pc;
-    top: 193pc;
+    left: 35pc;
+    width: 30pc;
+    top: 125pc;
     height: 17pc;
   }
 
@@ -1418,18 +1664,18 @@
     width: 12pc;
   }
   #G3sp1 {
-    margin-left: 15pc;
+    margin-left: 20pc;
     font-size: 1.8pc;
     margin-top: 3pc;
   }
 
   #G3h1 {
-    margin-left: 15pc;
+    margin-left: 20pc;
     font-size: 2pc;
   }
 
   #G3inps {
-    margin-left: 10pc;
+    margin-left: 14.2pc;
     width: 25pc;
     display: flex;
     flex-direction: column;
@@ -1445,14 +1691,14 @@
     margin-left: 6pc;
   }
   #g3i2 {
-    top: 245pc;
-    left: 50pc;
+    top: 195pc;
+    left: 59.9pc;
     height: 13pc;
   }
   .footer {
     display: flex;
     flex-direction: column;
-    width: 65pc;
+    width: 100%;
   }
 
   #ftrlo {
@@ -1468,40 +1714,40 @@
     margin-top: 1pc;
   }
   #mail {
-    top: 291pc;
+    top: 225pc;
     left: 1pc;
     color: green;
     font-size: 1pc;
   }
   #location {
-    top: 293pc;
+    top: 227pc;
     left: 1pc;
     color: green;
     font-size: 1pc;
   }
 
   #G4sp {
-    top: 295pc;
+    top: 229pc;
     left: 1pc;
   }
 }
 
 
 
-@media (min-width: 1280px) and (max-width: 1480px) {
+@media (min-width: 1101px) and (max-width: 1150px) {
   #logo {
-    margin-left: 2pc;
+    margin-left: 1pc;
   }
 
   #deliveryImg {
     position: absolute;
-    left: -1pc;
+    left: -14pc;
     top: 2.3pc;
   }
 
   #G1ul {
-    margin-left: 50pc;
-    margin-top: 1pc;
+    margin-left: 40pc;
+    margin-top: -1.5pc;
   }
   #navl1,
   #navl2,
@@ -1511,21 +1757,21 @@
   }
 
   #headerimg {
-    margin-left: -1pc;
-    margin-top: 10pc;
+    margin-left: -11pc;
+    margin-top: 8pc;
     height: 18pc;
-    width: 30pc;
+    width: 27pc;
   }
 
   #headerpera {
     height: 18pc;
     width: 30pc;
     margin-left: 1pc;
-    margin-top: 5pc;
+    margin-top: 2pc;
   }
 
   #Gi1 {
-    margin-left: 12pc;
+    margin-left: 10pc;
     width: 10pc;
   }
   #gi1 {
@@ -1533,17 +1779,17 @@
   }
   #gi2 {
     top: 52.3pc;
-    left: 45pc;
+    left: 36pc;
     width: 25pc;
   }
   #gi3 {
-    top: 64.1pc;
-    left: 45pc;
+    top: 61.1pc;
+    left: 36pc;
     width: 25pc;
   }
   #btnG2 {
     margin-top: 2pc;
-    margin-left: 34pc;
+    margin-left: 26pc;
   }
 
   #gih1 {
@@ -1556,94 +1802,97 @@
   }
 
   #Burgers {
-    margin-left: -10pc;
+    flex-direction: row;
+    margin-left: -7.5pc;
   }
   #Burger1 {
     margin-left: 10pc;
-    border: 2px soild green;
-    width: 30pc;
+    width: 20pc;
+ height: 25pc;
   }
   #burger1 {
-    width: 20pc;
-    margin-left: 3pc;
+    width: 18pc;
+    margin-left: 1pc;
   }
   #B1h {
     font-size: 1.5pc;
-    position: relative;
-    left: 4pc;
-    display: inline;
-    border: 2px soild green;
+    position: absolute;
+    left: 3pc;
+    top: 102pc;
   }
 
   #B1p {
-    margin-left: 8pc;
+    margin-left: 4.2pc;
   }
   #B1b {
-    margin-left: 8pc;
+    margin-left: 4pc;
   }
 
   #Burger2 {
     margin-left: 1pc;
     margin-top: 2pc;
-    width: 30pc;
-    height: 30pc;
+    width: 20pc;
+    height: 25pc;
   }
   #burger2 {
-    width: 20pc;
-    margin-left: 3pc;
+    width: 18pc;
+    margin-left: 1pc;
   }
   #B1h1 {
     font-size: 1.5pc;
-    position: relative;
-    left: 1pc;
-    width: 0pc;
+    position: absolute;
+    left: 22pc;
+    top: 102.5pc;
   }
   #B1p1 {
     position: relative;
-    left: -2pc;
+    left: -5pc;
     top: -1pc;
+    width: 15pc;
   }
   #B1b1 {
     position: relative;
-    left: -7c;
-    top: -2pc;
+    left: -5pc;
+    top: -1.4pc;
   }
 
   #Burger3 {
-    margin-left: 1pc;
-    margin-top: 1pc;
-    width: 30pc;
+    margin-left: 2pc;
+    margin-top:0pc;
+    width: 20pc;
+    height: 25;
   }
   #burger3 {
-    width: 20pc;
-    margin-left: 3pc;
+    width: 17pc;
+    margin-left:1pc;
   }
   #B1h2 {
     font-size: 1.5pc;
     position: relative;
-    left: 4pc;
+    left: 0.5pc;
     top: 1pc;
   }
   #B1p2 {
     position: relative;
-    left: 3pc;
+    left: -1pc;
     top: 0pc;
   }
   #B1b2 {
     position: relative;
-    left: 3.2pc;
+    left: -0.2pc;
     top: 0pc;
   }
   #Perad {
-    margin-left: 2pc;
-    width: 75pc;
+    margin-left: 1pc;
+    width: 97%;
     height: 35pc;
+  
   }
 
   #Perap {
     margin-left: 2pc;
     font-size: 1.2pc;
-    width: 40pc;
+    width: 30pc;
   }
 
   #Perasp {
@@ -1653,34 +1902,34 @@
   }
   #Perah {
     position: relative;
-    top: 1pc;
+    top: 1.5pc;
     left: -3pc;
   }
   #Perai {
-    left: 45pc;
+    left: 35pc;
     width: 30pc;
-    top: 138pc;
+    top: 125pc;
     height: 17pc;
   }
 
   #g3i1 {
     left: -0.1pc;
-    width: 15pc;
+    width: 12pc;
   }
   #G3sp1 {
-    margin-left: 28pc;
+    margin-left: 20pc;
     font-size: 1.8pc;
     margin-top: 3pc;
   }
 
   #G3h1 {
-    margin-left: 28pc;
+    margin-left: 20pc;
     font-size: 2pc;
   }
 
   #G3inps {
-    margin-left: 20pc;
-    width: 30pc;
+    margin-left: 14.2pc;
+    width: 25pc;
     display: flex;
     flex-direction: column;
     margin-top: 2pc;
@@ -1691,18 +1940,1044 @@
   #G3i4,
   #G3i5,
   #G3b1 {
-    width: 35pc;
+    width: 30pc;
     margin-left: 6pc;
   }
   #g3i2 {
-    top: 205pc;
+    top: 195pc;
     left: 63pc;
     height: 13pc;
   }
   .footer {
     display: flex;
     flex-direction: column;
-    width: 80pc;
+    width: 100%;
+  }
+
+  #ftrlo {
+    width: 10pc;
+  }
+  #ftrp {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+
+  #G4ld {
+    margin-left: 45pc;
+    margin-top: 1pc;
+  }
+  #mail {
+    top: 225pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+  #location {
+    top: 227pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+
+  #G4sp {
+    top: 229pc;
+    left: 1pc;
+  }
+}
+
+
+
+
+@media (min-width:1151px) and (max-width:1200px){
+  #logo {
+    margin-left: 1pc;
+  }
+
+  #deliveryImg {
+    position: absolute;
+    left: -10pc;
+    top: 2.3pc;
+  }
+
+  #G1ul {
+    margin-left: 44pc;
+    margin-top: -1.3pc;
+  }
+  #navl1,
+  #navl2,
+  #navl3,
+  #navl4 {
+    margin-left: 1pc;
+  }
+
+  #headerimg {
+    margin-left: -9pc;
+    margin-top: 7pc;
+    height: 18pc;
+    width: 27pc;
+  }
+
+  #headerpera {
+    height: 18pc;
+    width: 30pc;
+    margin-left: 1pc;
+    margin-top: 2pc;
+  }
+
+  #Gi1 {
+    margin-left: 11pc;
+    width: 10pc;
+  }
+  #gi1 {
+    width: 25pc;
+  }
+  #gi2 {
+    top: 52.3pc;
+    left: 37pc;
+    width: 25pc;
+  }
+  #gi3 {
+    top: 61.1pc;
+    left: 37pc;
+    width: 25pc;
+  }
+  #btnG2 {
+    margin-top: 2pc;
+    margin-left: 27pc;
+  }
+
+  #gih1 {
+    margin-left: -20pc;
+    font-size: 2pc;
+    margin-top: 3pc;
+  }
+  #gip1 {
+    margin-left: -20.8pc;
+  }
+
+  #Burgers {
+    flex-direction: row;
+    margin-left: -4.5pc;
+  }
+  #Burger1 {
+    margin-left: 10pc;
+    width: 20pc;
+ height: 25pc;
+  }
+  #burger1 {
+    width: 18pc;
+    margin-left: 1pc;
+  }
+  #B1h {
+    font-size: 1.5pc;
+    position: relative;
+    left: 1pc;
+    top: 1pc;
+  }
+
+  #B1p {
+    margin-left: 4.2pc;
+  }
+  #B1b {
+    margin-left: 4pc;
+  }
+
+  #Burger2 {
+    margin-left: 1pc;
+    margin-top: 2pc;
+    width: 20pc;
+    height: 29pc;
+  }
+  #burger2 {
+    width: 18pc;
+    margin-left: 1pc;
+  }
+  #B1h1 {
+    font-size: 1.4pc;
+    position: relative;
+    left: -2pc;
+    top: 0pc;
+    width: 10pc;
+  }
+  #B1p1 {
+    position: relative;
+    left: -5pc;
+    top: -1pc;
+    width: 15pc;
+  }
+  #B1b1 {
+    position: relative;
+    left: -5pc;
+    top: -1.4pc;
+  }
+
+  #Burger3 {
+    margin-left: 2pc;
+    margin-top:0pc;
+    width: 20pc;
+    height: 25;
+  }
+  #burger3 {
+    width: 17pc;
+    margin-left:1pc;
+  }
+  #B1h2 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 0.5pc;
+    top: 1pc;
+  }
+  #B1p2 {
+    position: relative;
+    left: -1pc;
+    top: 0pc;
+  }
+  #B1b2 {
+    position: relative;
+    left: -0.2pc;
+    top: 0pc;
+  }
+  #Perad {
+    margin-left: 1pc;
+    width: 97%;
+    height: 35pc;
+  
+  }
+
+  #Perap {
+    margin-left: 2pc;
+    font-size: 1.2pc;
+    width: 30pc;
+  }
+
+  #Perasp {
+    position: relative;
+    top: 2pc;
+    left: -3pc;
+  }
+  #Perah {
+    position: relative;
+    top: 1.5pc;
+    left: -3pc;
+  }
+  #Perai {
+    left: 35pc;
+    width: 34pc;
+    top: 130pc;
+    height: 20pc;
+  }
+
+  #g3i1 {
+    left: -0.1pc;
+    width: 12pc;
+  }
+  #G3sp1 {
+    margin-left: 20pc;
+    font-size: 1.8pc;
+    margin-top: 3pc;
+  }
+
+  #G3h1 {
+    margin-left: 20pc;
+    font-size: 2pc;
+  }
+
+  #G3inps {
+    margin-left: 14.2pc;
+    width: 25pc;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2pc;
+  }
+  #G3i1,
+  #G3i2,
+  #G3i3,
+  #G3i4,
+  #G3i5,
+  #G3b1 {
+    width: 30pc;
+    margin-left: 6pc;
+  }
+  #g3i2 {
+    top: 195pc;
+    left: 66pc;
+    height: 13pc;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  #ftrlo {
+    width: 10pc;
+  }
+  #ftrp {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+
+  #G4ld {
+    margin-left: 50pc;
+    margin-top: 1pc;
+  }
+  #mail {
+    top: 227pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+  #location {
+    top: 229pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+
+  #G4sp {
+    top: 231pc;
+    left: 1pc;
+  }
+}
+
+
+
+
+
+
+
+@media (min-width:1201px) and (max-width:1250px){
+  #logo {
+    margin-left: 1pc;
+  }
+
+  #deliveryImg {
+    position: absolute;
+    left: -9pc;
+    top: 2.3pc;
+  }
+
+  #G1ul {
+    margin-left: 44pc;
+    margin-top: -1.3pc;
+  }
+  #navl1,
+  #navl2,
+  #navl3,
+  #navl4 {
+    margin-left: 1pc;
+  }
+
+  #headerimg {
+    margin-left: -9pc;
+    margin-top: 7pc;
+    height: 18pc;
+    width: 27pc;
+  }
+
+  #headerpera {
+    height: 18pc;
+    width: 30pc;
+    margin-left: 1pc;
+    margin-top: 2pc;
+  }
+
+  #Gi1 {
+    margin-left: 11pc;
+    width: 10pc;
+  }
+  #gi1 {
+    width: 25pc;
+  }
+  #gi2 {
+    top: 52.3pc;
+    left: 37pc;
+    width: 25pc;
+  }
+  #gi3 {
+    top: 61.1pc;
+    left: 37pc;
+    width: 25pc;
+  }
+  #btnG2 {
+    margin-top: 2pc;
+    margin-left: 27pc;
+  }
+
+  #gih1 {
+    margin-left: -20pc;
+    font-size: 2pc;
+    margin-top: 3pc;
+  }
+  #gip1 {
+    margin-left: -20.8pc;
+  }
+
+  #Burgers {
+    flex-direction: row;
+    margin-left: -4.5pc;
+  }
+  #Burger1 {
+    margin-left: 10pc;
+    width: 20pc;
+ height: 25pc;
+  }
+  #burger1 {
+    width: 18pc;
+    margin-left: 1pc;
+  }
+  #B1h {
+    font-size: 1.5pc;
+    position: relative;
+    left: 1pc;
+    top: 1pc;
+  }
+
+  #B1p {
+    margin-left: 4.2pc;
+  }
+  #B1b {
+    margin-left: 4pc;
+  }
+
+  #Burger2 {
+    margin-left: 1pc;
+    margin-top: 2pc;
+    width: 20pc;
+    height: 29pc;
+  }
+  #burger2 {
+    width: 18pc;
+    margin-left: 1pc;
+  }
+  #B1h1 {
+    font-size: 1.4pc;
+    position: relative;
+    left: -2pc;
+    top: 0pc;
+    width: 10pc;
+  }
+  #B1p1 {
+    position: relative;
+    left: -5pc;
+    top: -1pc;
+    width: 15pc;
+  }
+  #B1b1 {
+    position: relative;
+    left: -5pc;
+    top: -1.4pc;
+  }
+
+  #Burger3 {
+    margin-left: 2pc;
+    margin-top:0pc;
+    width: 20pc;
+    height: 25;
+  }
+  #burger3 {
+    width: 17pc;
+    margin-left:1pc;
+  }
+  #B1h2 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 0.5pc;
+    top: 1pc;
+  }
+  #B1p2 {
+    position: relative;
+    left: -1pc;
+    top: 0pc;
+  }
+  #B1b2 {
+    position: relative;
+    left: -0.2pc;
+    top: 0pc;
+  }
+  #Perad {
+    margin-left: 1pc;
+    width: 97%;
+    height: 35pc;
+  
+  }
+
+  #Perap {
+    margin-left: 2pc;
+    font-size: 1.2pc;
+    width: 30pc;
+  }
+
+  #Perasp {
+    position: relative;
+    top: 2pc;
+    left: -3pc;
+  }
+  #Perah {
+    position: relative;
+    top: 1.5pc;
+    left: -3pc;
+  }
+  #Perai {
+    left: 35pc;
+    width: 34pc;
+    top: 130pc;
+    height: 20pc;
+  }
+
+  #g3i1 {
+    left: -0.1pc;
+    width: 12pc;
+  }
+  #G3sp1 {
+    margin-left: 25pc;
+    font-size: 1.8pc;
+    margin-top: 3pc;
+  }
+
+  #G3h1 {
+    margin-left: 25pc;
+    font-size: 2pc;
+  }
+
+  #G3inps {
+    margin-left: 18.5pc;
+    width: 25pc;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2pc;
+  }
+  #G3i1,
+  #G3i2,
+  #G3i3,
+  #G3i4,
+  #G3i5,
+  #G3b1 {
+    width: 30pc;
+    margin-left: 6pc;
+  }
+  #g3i2 {
+    top: 195pc;
+    left: 69pc;
+    height: 13pc;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  #ftrlo {
+    width: 10pc;
+  }
+  #ftrp {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+
+  #G4ld {
+    margin-left: 50pc;
+    margin-top: 1pc;
+  }
+  #mail {
+    top: 227pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+  #location {
+    top: 229pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+
+  #G4sp {
+    top: 231pc;
+    left: 1pc;
+  }
+}
+
+
+
+
+
+
+@media (min-width:1251px) and (max-width:1300px){
+  #logo {
+    margin-left: 1pc;
+  }
+
+  #deliveryImg {
+    position: absolute;
+    left: -6pc;
+    top: 2.3pc;
+  }
+
+  #G1ul {
+    margin-left: 48pc;
+    margin-top: -1.3pc;
+  }
+  #navl1,
+  #navl2,
+  #navl3,
+  #navl4 {
+    margin-left: 1pc;
+  }
+
+  #headerimg {
+    margin-left: -9pc;
+    margin-top: 8pc;
+    height: 23pc;
+    width: 34pc;
+  }
+
+  #headerpera {
+    height: 20pc;
+    width: 32pc;
+    margin-left: 1pc;
+    margin-top: 3pc;
+  }
+
+  #Gi1 {
+    margin-left: 9pc;
+    width: 10pc;
+  }
+  #gi1 {
+    width: 30pc;
+  }
+  #gi2 {
+    top: 52.3pc;
+    left: 40pc;
+    width: 30pc;
+  }
+  #gi3 {
+    top: 63pc;
+    left: 40pc;
+    width: 30pc;
+  }
+  #btnG2 {
+    margin-top: 2pc;
+    margin-left: 32pc;
+  }
+
+  #gih1 {
+    margin-left: -20pc;
+    font-size: 2pc;
+    margin-top: 3pc;
+  }
+  #gip1 {
+    margin-left: -20.8pc;
+  }
+
+  #Burgers {
+    flex-direction: row;
+    margin-left: -1.5pc;
+  }
+  #Burger1 {
+    margin-left: 10pc;
+    width: 20pc;
+ height: 25pc;
+  }
+  #burger1 {
+    width: 20pc;
+    margin-left: 1pc;
+  }
+  #B1h {
+    font-size: 1.5pc;
+    position: relative;
+    left: 1pc;
+    top: 1pc;
+  }
+
+  #B1p {
+    margin-left: 4.2pc;
+  }
+  #B1b {
+    margin-left: 4pc;
+  }
+
+  #Burger2 {
+    margin-left: 1pc;
+    margin-top: 2pc;
+    width: 20pc;
+    height: 29pc;
+  }
+  #burger2 {
+    width: 20pc;
+    margin-left: 1pc;
+  }
+  #B1h1 {
+    font-size: 1.4pc;
+    position: relative;
+    left: -2pc;
+    top: 0pc;
+    width: 10pc;
+  }
+  #B1p1 {
+    position: relative;
+    left: -5pc;
+    top: -1pc;
+    width: 15pc;
+  }
+  #B1b1 {
+    position: relative;
+    left: -5pc;
+    top: -1.4pc;
+  }
+
+  #Burger3 {
+    margin-left: 2pc;
+    margin-top:0pc;
+    width: 20pc;
+    height: 25;
+  }
+  #burger3 {
+    width: 18pc;
+    margin-left:1pc;
+  }
+  #B1h2 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 0.5pc;
+    top: 1pc;
+  }
+  #B1p2 {
+    position: relative;
+    left: -1pc;
+    top: 0pc;
+  }
+  #B1b2 {
+    position: relative;
+    left: -0.2pc;
+    top: 0pc;
+  }
+  #Perad {
+    margin-left: 1pc;
+    width: 97%;
+    height: 35pc;
+  
+  }
+
+  #Perap {
+    margin-left: 2pc;
+    font-size: 1.2pc;
+    width: 37pc;
+  }
+
+  #Perasp {
+    position: relative;
+    top: 2pc;
+    left: -3pc;
+  }
+  #Perah {
+    position: relative;
+    top: 1.5pc;
+    left: -3pc;
+  }
+  #Perai {
+    left: 41pc;
+    width: 34pc;
+    top: 134pc;
+    height: 20pc;
+  }
+
+  #g3i1 {
+    left: -0.1pc;
+    width: 12pc;
+  }
+  #G3sp1 {
+    margin-left: 30pc;
+    font-size: 1.8pc;
+    margin-top: 3pc;
+  }
+
+  #G3h1 {
+    margin-left: 30pc;
+    font-size: 2pc;
+  }
+
+  #G3inps {
+    margin-left: 23pc;
+    width: 25pc;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2pc;
+  }
+  #G3i1,
+  #G3i2,
+  #G3i3,
+  #G3i4,
+  #G3i5,
+  #G3b1 {
+    width: 30pc;
+    margin-left: 6pc;
+  }
+  #g3i2 {
+    top: 197pc;
+    left: 72pc;
+    height: 13pc;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  #ftrlo {
+    width: 10pc;
+  }
+  #ftrp {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+
+  #G4ld {
+    margin-left: 50pc;
+    margin-top: 1pc;
+  }
+  #mail {
+    top: 233pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+  #location {
+    top: 235pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+
+  #G4sp {
+    top: 237pc;
+    left: 1pc;
+  }
+}
+
+
+
+
+
+
+
+@media (min-width:1300px) and (max-width:1350px){
+  #logo {
+    margin-left: 1pc;
+  }
+
+  #deliveryImg {
+    position: absolute;
+    left: 1pc;
+    top: 2.3pc;
+  }
+
+  #G1ul {
+    margin-left: 55pc;
+    margin-top: -1.3pc;
+  }
+  #navl1,
+  #navl2,
+  #navl3,
+  #navl4 {
+    margin-left: 1pc;
+  }
+
+  #headerimg {
+    margin-left: -9pc;
+    margin-top: 8pc;
+    height: 23pc;
+    width: 34pc;
+  }
+
+  #headerpera {
+    height: 25pc;
+    width: 35pc;
+    margin-left: 1pc;
+    margin-top: 3pc;
+  }
+
+  #Gi1 {
+    margin-left: 10pc;
+    width: 10pc;
+  }
+  #gi1 {
+    width: 31pc;
+  }
+  #gi2 {
+    top: 52.3pc;
+    left: 42pc;
+    width: 31pc;
+  }
+  #gi3 {
+    top: 63pc;
+    left: 42pc;
+    width: 31pc;
+  }
+  #btnG2 {
+    margin-top: 2pc;
+    margin-left: 33pc;
+  }
+
+  #gih1 {
+    margin-left: -15pc;
+    font-size: 2pc;
+    margin-top: 3pc;
+  }
+  #gip1 {
+    margin-left: -15.8pc;
+  }
+
+  #Burgers {
+    flex-direction: row;
+    margin-left: -1.5pc;
+  }
+  #Burger1 {
+    margin-left: 5pc;
+    width: 25pc;
+ height: 30pc;
+  }
+  #burger1 {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+  #B1h {
+    font-size: 1.5pc;
+    position: relative;
+    left: 3pc;
+    top: 1pc;
+  }
+
+  #B1p {
+    margin-left: 6.2pc;
+  }
+  #B1b {
+    margin-left: 6pc;
+  }
+
+  #Burger2 {
+    margin-left: 1pc;
+    margin-top: 2pc;
+    width: 25pc;
+    height: 30pc;
+  }
+  #burger2 {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+  #B1h1 {
+    font-size: 1.4pc;
+    position: relative;
+    left: 2pc;
+    top: 0pc;
+    width: 10pc;
+  }
+  #B1p1 {
+    position: relative;
+    left: -1pc;
+    top: -1pc;
+    width: 15pc;
+  }
+  #B1b1 {
+    position: relative;
+    left: -1pc;
+    top: -1.4pc;
+  }
+
+  #Burger3 {
+    margin-left: 2pc;
+    margin-top:0pc;
+    width: 25pc;
+    height: 30pc;
+  }
+  #burger3 {
+    width: 22pc;
+    margin-left:1pc;
+  }
+  #B1h2 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 2pc;
+    top: 1pc;
+  }
+  #B1p2 {
+    position: relative;
+    left: 1pc;
+    top: 0pc;
+  }
+  #B1b2 {
+    position: relative;
+    left: 1.2pc;
+    top: 0pc;
+  }
+  #Perad {
+    margin-left: 1pc;
+    width: 97%;
+    height: 35pc;
+  
+  }
+
+  #Perap {
+    margin-left: 2pc;
+    font-size: 1.2pc;
+    width: 37pc;
+  }
+
+  #Perasp {
+    position: relative;
+    top: 2pc;
+    left: -3pc;
+  }
+  #Perah {
+    position: relative;
+    top: 1.5pc;
+    left: -3pc;
+  }
+  #Perai {
+    left: 43pc;
+    width: 36pc;
+    top: 134pc;
+    height: 21pc;
+  }
+
+  #g3i1 {
+    left: -0.1pc;
+    width: 12pc;
+  }
+  #G3sp1 {
+    margin-left: 30pc;
+    font-size: 1.8pc;
+    margin-top: 3pc;
+  }
+
+  #G3h1 {
+    margin-left: 30pc;
+    font-size: 2pc;
+  }
+
+  #G3inps {
+    margin-left: 23pc;
+    width: 50pc;
+    margin-top: 2pc;
+  }
+  #G3i1,
+  #G3i2,
+  #G3i3,
+  #G3i4,
+  #G3i5,
+  #G3b1 {
+    width: 20pc;
+    margin-left: 2pc;
+  }
+  #g3i2 {
+    top: 200pc;
+    left: 74pc;
+    height: 15pc;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
   }
 
   #ftrlo {
@@ -1715,23 +2990,536 @@
 
   #G4ld {
     margin-left: 55pc;
-    margin-top: 1pc;
+    margin-top: -5pc;
   }
   #mail {
-    top: 243pc;
+    top: 233pc;
     left: 1pc;
     color: green;
     font-size: 1pc;
   }
   #location {
-    top: 244pc;
+    top: 235pc;
     left: 1pc;
     color: green;
     font-size: 1pc;
   }
 
   #G4sp {
-    top: 246pc;
+    top: 237pc;
+    left: 1pc;
+  }
+}
+
+
+
+
+
+
+@media (min-width:1351px) and (max-width:1400px){
+  #logo {
+    margin-left: 1pc;
+  }
+
+  #deliveryImg {
+    position: absolute;
+    left: 1pc;
+    top: 1.3pc;
+  }
+
+  #G1ul {
+    margin-left: 55pc;
+    margin-top: -2.3pc;
+  }
+  #navl1,
+  #navl2,
+  #navl3,
+  #navl4 {
+    margin-left: 1pc;
+  }
+
+  #headerimg {
+    margin-left: -9pc;
+    margin-top: 4pc;
+    height: 29pc;
+    width: 36pc;
+  }
+
+  #headerpera {
+    height: 27pc;
+    width: 36pc;
+    margin-left: 1pc;
+    margin-top: 3pc;
+  }
+
+  #Gi1 {
+    margin-left: 10pc;
+    width: 10pc;
+  }
+  #gi1 {
+    width: 31pc;
+  }
+  #gi2 {
+    top: 52.3pc;
+    left: 42pc;
+    width: 31pc;
+  }
+  #gi3 {
+    top: 63pc;
+    left: 42pc;
+    width: 31pc;
+  }
+  #btnG2 {
+    margin-top: 2pc;
+    margin-left: 33pc;
+  }
+
+  #gih1 {
+    margin-left: 7pc;
+    font-size: 2pc;
+    margin-top: 3pc;
+  }
+  #gip1 {
+    margin-left: -10.8pc;
+  }
+
+  #Burgers {
+    flex-direction: row;
+    margin-left: -1.5pc;
+  }
+  #Burger1 {
+    margin-left: 5pc;
+    width: 25pc;
+ height: 30pc;
+  }
+  #burger1 {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+  #B1h {
+    font-size: 1.5pc;
+    position: relative;
+    left: 3pc;
+    top: 1pc;
+  }
+
+  #B1p {
+    margin-left: 6.2pc;
+  }
+  #B1b {
+    margin-left: 6pc;
+  }
+
+  #Burger2 {
+    margin-left: 1pc;
+    margin-top: 2pc;
+    width: 25pc;
+    height: 30pc;
+  }
+  #burger2 {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+  #B1h1 {
+    font-size: 1.4pc;
+    position: relative;
+    left: 2pc;
+    top: 0pc;
+    width: 10pc;
+  }
+  #B1p1 {
+    position: relative;
+    left: -1pc;
+    top: -1pc;
+    width: 15pc;
+  }
+  #B1b1 {
+    position: relative;
+    left: -1pc;
+    top: -1.4pc;
+  }
+
+  #Burger3 {
+    margin-left: 2pc;
+    margin-top:0pc;
+    width: 25pc;
+    height: 30pc;
+  }
+  #burger3 {
+    width: 22pc;
+    margin-left:1pc;
+  }
+  #B1h2 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 2pc;
+    top: 1pc;
+  }
+  #B1p2 {
+    position: relative;
+    left: 1pc;
+    top: 0pc;
+  }
+  #B1b2 {
+    position: relative;
+    left: 1.2pc;
+    top: 0pc;
+  }
+  #Perad {
+    margin-left: 1pc;
+    width: 97%;
+    height: 31pc;
+  
+  }
+
+  #Perap {
+    margin-left: 2pc;
+    font-size: 1.2pc;
+    width: 37pc;
+  }
+
+  #Perasp {
+    position: relative;
+    top: 2pc;
+    left: -3pc;
+  }
+  #Perah {
+    position: relative;
+    top: 1.5pc;
+    left: -3pc;
+  }
+  #Perai {
+    left: 43pc;
+    width: 36pc;
+    top: 134pc;
+    height: 21pc;
+  }
+
+  #g3i1 {
+    left: -0.1pc;
+    width: 15pc;
+  }
+  #G3sp1 {
+    margin-left: 25pc;
+    font-size: 1.8pc;
+    margin-top: 3pc;
+  }
+
+  #G3h1 {
+    margin-left: 25pc;
+    font-size: 2pc;
+  }
+
+  #G3inps {
+    margin-left: 18pc;
+    width: 55pc;
+    margin-top: 2pc;
+  }
+  #G3i1,
+  #G3i2,
+  #G3i3,
+  #G3i4,
+  #G3i5,
+  #G3b1 {
+    width: 20pc;
+    margin-left: 6pc;
+  }
+  #g3i2 {
+    top: 192pc;
+    left: 74pc;
+    height: 15pc;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+  }
+
+  #ftrlo {
+    width: 10pc;
+  }
+  #ftrp {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+
+  #G4ld {
+    margin-left: 55pc;
+    margin-top: -5pc;
+  }
+  #mail {
+    top: 233pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+  #location {
+    top: 235pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+
+  #G4sp {
+    top: 237pc;
+    left: 1pc;
+  }
+}
+
+
+
+
+
+@media (min-width:1400px) and (max-width:1450px){
+  #logo {
+    margin-left: 1pc;
+  }
+
+  #deliveryImg {
+    position: absolute;
+    left: 3pc;
+    top: 2.3pc;
+  }
+
+  #G1ul {
+    margin-left: 56pc;
+    margin-top: -1.3pc;
+  }
+  #navl1,
+  #navl2,
+  #navl3,
+  #navl4 {
+    margin-left: 1pc;
+  }
+
+  #headerimg {
+    margin-left: -8pc;
+    margin-top: 7pc;
+    height: 27pc;
+    width: 36pc;
+  }
+
+  #headerpera {
+    height: 27pc;
+    width: 35pc;
+    margin-left: 1pc;
+    margin-top: 3pc;
+  }
+
+  #Gi1 {
+    margin-left: 13pc;
+    width: 10pc;
+  }
+  #gi1 {
+    width: 31pc;
+  }
+  #gi2 {
+    top: 52.3pc;
+    left: 45pc;
+    width: 31pc;
+  }
+  #gi3 {
+    top: 63pc;
+    left: 45pc;
+    width: 31pc;
+  }
+  #btnG2 {
+    margin-top: 2pc;
+    margin-left: 36pc;
+  }
+
+  #gih1 {
+    margin-left: 11pc;
+    font-size: 2pc;
+    margin-top: 5pc;
+  }
+  #gip1 {
+    margin-left: -7.8pc;
+  }
+
+  #Burgers {
+    flex-direction: row;
+    margin-left: 1pc;
+  }
+  #Burger1 {
+    margin-left: 5pc;
+    width: 25pc;
+ height: 30pc;
+  }
+  #burger1 {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+  #B1h {
+    font-size: 1.5pc;
+    position: relative;
+    left: 3pc;
+    top: 1pc;
+  }
+
+  #B1p {
+    margin-left: 6.2pc;
+  }
+  #B1b {
+    margin-left: 6pc;
+  }
+
+  #Burger2 {
+    margin-left: 1pc;
+    margin-top: 2pc;
+    width: 25pc;
+    height: 30pc;
+  }
+  #burger2 {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+  #B1h1 {
+    font-size: 1.4pc;
+    position: relative;
+    left: 2pc;
+    top: 0pc;
+    width: 10pc;
+  }
+  #B1p1 {
+    position: relative;
+    left: -1pc;
+    top: -1pc;
+    width: 15pc;
+  }
+  #B1b1 {
+    position: relative;
+    left: -1pc;
+    top: -1.4pc;
+  }
+
+  #Burger3 {
+    margin-left: 2pc;
+    margin-top:0pc;
+    width: 25pc;
+    height: 30pc;
+  }
+  #burger3 {
+    width: 22pc;
+    margin-left:1pc;
+  }
+  #B1h2 {
+    font-size: 1.5pc;
+    position: relative;
+    left: 2pc;
+    top: 1pc;
+  }
+  #B1p2 {
+    position: relative;
+    left: 1pc;
+    top: 0pc;
+  }
+  #B1b2 {
+    position: relative;
+    left: 1.2pc;
+    top: 0pc;
+  }
+  #Perad {
+    margin-left: 1pc;
+    width: 97%;
+    height: 33pc;
+  
+  }
+
+  #Perap {
+    margin-left: 4pc;
+    font-size: 1.2pc;
+    width: 37pc;
+    margin-top: 2pc;
+  }
+
+  #Perasp {
+    position: relative;
+    top: 2pc;
+    left: -1pc;
+  }
+  #Perah {
+    position: relative;
+    top: 1.5pc;
+    left: -1pc;
+  }
+  #Perai {
+    left: 48pc;
+    width: 36pc;
+    top: 136pc;
+    height: 21pc;
+  }
+
+  #g3i1 {
+    left: -0.1pc;
+    width: 15pc;
+  }
+  #G3sp1 {
+    margin-left: 32pc;
+    font-size: 1.8pc;
+    margin-top: 3pc;
+  }
+
+  #G3h1 {
+    margin-left: 32pc;
+    font-size: 2pc;
+  }
+
+  #G3inps {
+    margin-left: 25pc;
+    width: 25pc;
+    display: flex;
+    flex-direction: row;
+    margin-top: 2pc;
+  }
+  #G3i1,
+  #G3i2,
+  #G3i3,
+  #G3i4,
+  #G3i5,
+  #G3b1 {
+    width: 30pc;
+    margin-left: 6pc;
+  }
+  #g3i2 {
+    top: 200pc;
+    left: 80pc;
+    height: 15pc;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  #ftrlo {
+    width: 10pc;
+  }
+  #ftrp {
+    width: 25pc;
+    margin-left: 1pc;
+  }
+
+  #G4ld {
+    margin-left: 55pc;
+    margin-top: -5pc;
+  
+  }
+  #mail {
+    top: 233pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+  #location {
+    top: 235pc;
+    left: 1pc;
+    color: green;
+    font-size: 1pc;
+  }
+
+  #G4sp {
+    top: 237pc;
     left: 1pc;
   }
 }
